@@ -1,11 +1,33 @@
 # cs2_cheats
-如你所见，适用于cs2官匹的内部作弊，通过手动内存映射将dll注入到cs2中。
-通过imgui绘制菜单。
+如你所见，适用于cs2官匹的内部作弊，使用手动内存映射的方式将dll注入到cs2中。通过imgui绘制菜单。
+截止2023/11/8 如果仅仅使用内存平滑自瞄，它不会被vac封禁。
 ![image](https://github.com/Retmon403/cs2_cheats/blob/main/CS2/2023-11-08.png)
 
 
 
 
 # 借鉴的开源项目
-https://github.com/DrNseven/D3D11-Wallhack
-https://github.com/TKazer/CS2_External
+https://github.com/DrNseven/D3D11-Wallhack  https://github.com/TKazer/CS2_External
+
+
+
+# 功能如下
+[ESP]  
+1.ESP box/ESP bons Player  
+2.entity ESP  
+3.Dx11 hook playerEsp 模型透视  
+4.bhop 自动连跳  
+5.trigger 瞄准敌人后自动开枪/VisualCheck 可视性检查  
+
+[AIMBOT]  
+1.aimbot 平滑/silentAim 静默自瞄  
+
+[World]  
+1.no flashbang  
+2.smoke color  
+3.third person  
+
+
+# 感谢的人
+三老祖 三筱  
+许多无数开源的大佬和前，借鉴了许多前辈的代码，当然还有unknowcheats论坛里的帖子  
