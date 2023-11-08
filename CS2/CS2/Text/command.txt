@@ -1,0 +1,50 @@
+-allow_third_party_software
+-perfectworld
+
+mp_restartgame 1 1秒后刷新游戏
+
+mp_autoteambalance 0/1 是否打开自动平衡
+
+mp_maxmoney 16000 最高金钱16000
+
+mp_roundtime 60 死亡竞赛的回合时间60分钟
+
+mp_roundtime_defuse 60 休闲/竞技模式每局时间60分钟
+
+mp_maxrounds 30 休闲/竞技模式最大局数设为30局
+
+mp_startmoney 16000 出生金钱为16000
+
+mp_buytime 15 开局购买时间15秒
+
+mp_buy_anywhere 1 在任意地点都能购买武器
+
+mp_freezetime 0 每局出生原地冻结时间0秒
+
+mp_friendlyfire 0/1 关闭/开启友军伤害
+
+mp_limitteams 2 双方人数差异最多为2人
+
+maxplayers 16 地图最大玩家数(包括机器人)
+
+mp_c4timer 45 C4引爆时间45秒
+
+map de_inferno 切换地图为de_inferno(炼狱小镇)
+
+maps 列出该服务器所有地图
+
+mp_display_kill_assists 0/1 关闭/开启助攻显示
+
+mp_overtime_enable 0/1 是否允许打加时赛
+
+mp_randomspawn 0/1 是否基地为出生点
+
+mp_teammates_are_enemies 0/1 死斗模式/死亡模式
+
+mp_respawn_on_death_t 0/1
+
+mp_respawn_on_death_ct 0/1
+
+sv_password 123 设置服务器密码为123
+
+exec gamemode_模式 切换游戏模式
