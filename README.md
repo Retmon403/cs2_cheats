@@ -17,9 +17,8 @@ https://github.com/DrNseven/D3D11-Wallhack  https://github.com/TKazer/CS2_Extern
 
 ## 功能如下
 [ESP]  
-1.ESP box/ESP bons Player  
-2.entity ESP  
-3.Dx11 hook playerEsp 模型透视  
+1.ESP box&bons&entity  
+2.Dxhook 模型透视  
 4.bhop 自动连跳  
 5.trigger 瞄准敌人后自动开枪/VisualCheck 可视性检查  
 
@@ -34,7 +33,5 @@ https://github.com/DrNseven/D3D11-Wallhack  https://github.com/TKazer/CS2_Extern
 
 
 ## 感谢的人
-三老祖 三筱  
+三老祖、空白。  
 许多无数开源的大佬和，借鉴了许多前辈的代码，当然还有unknowcheats论坛里的帖子  
-英语机翻  
-
